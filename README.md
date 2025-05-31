@@ -22,15 +22,5 @@ graph TD
     D --> E[Defect Reporting]
     E --> F[Test Summary]
 
-## 🔍 Key Testing Activities
-- ✅ Designed 120+ test cases covering all banking features
 
-- 💰 Conducted transaction flow validation
 
-- 🔐 Performed security testing for sensitive operations
-
-- 📊 Created traceability matrix in Excel
-
-- 🐛 Documented 37 defects with severity classification
-
-- 📱 Cross-browser compatibility testing
